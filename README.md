@@ -18,15 +18,26 @@
 
 
 
-## Use To Code
-
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Photon](https://img.shields.io/badge/photon-%23004480.svg?style=for-the-badge&logo=photon&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-
+<h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
 <br/>
+<div align="center">
+
+  <!-- Programming Languages -->
+  <h3>📌 Programming Languages</h3>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python" /><br>
+
+  <!-- Game Programming -->
+  <h3>🚀 Game Development</h3>
+  <img src="https://skillicons.dev/icons?i=unity" /><br>
+
+
+  <!-- Other Tools & Version Control -->
+  <h3>🧰 Other Tools & Version Control</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" /><br>
+
+</div>
+<br/>
+<hr/>
 
 <p align="left">
   <a href="https://github.com/mkae21?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
