@@ -6,10 +6,6 @@
 
 ###
 
-<br>
-<br>
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mkae21/mkae21/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mkae21/mkae21/output/pacman-contribution-graph.svg">
