@@ -39,14 +39,6 @@
 <br/>
 <hr/>
 
-<p align="left">
-  <a href="https://github.com/mkae21?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-<hr/>
-<br/>
-
 <p align="center">
   <a href="https://github.com/mkae21">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Al Siam's GitHub Contribution"/>
